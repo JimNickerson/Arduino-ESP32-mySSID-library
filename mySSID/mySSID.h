@@ -8,7 +8,7 @@
 #ifndef MY_SSID_H   // if not previously defined
 #define MY_SSID_H   // define this to avoid including it more than once
 //
-#define mySSID "SSID"         // change to your SSID
+#define mySSID "SSID"         // change to your SSID in the library directory on first use
 #define myPASSWORD "PASSWORD" // change to your password
 //
 #if mySSID == SSID
