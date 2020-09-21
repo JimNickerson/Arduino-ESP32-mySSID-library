@@ -11,8 +11,5 @@
 #define mySSID "SSID"         // change to your SSID in the library directory on first use
 #define myPASSWORD "PASSWORD" // change to your password
 //
-#if mySSID == SSID
-    #error "this SSID is unlikely to connect"  // change it to your SSID
-#endif
 //
 #endif // end of the include guard
